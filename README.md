@@ -1,7 +1,7 @@
 ### Hi there ,Iam Kayiyan👋
 - 🌱 I’m currently learning CyberSecurity
 - 🐳 My zodiac: Pisces ♓
-- ❄️ Like Playing Games and Hacking
+- ❄️ Like Listening Nightcore Music and Hacking
 <!--
 **Kayiyan/Kayiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
